@@ -1,0 +1,10 @@
+laberintos/maze2.txt
+2,2
+U
+D
+L
+R
+U
+D
+L
+R

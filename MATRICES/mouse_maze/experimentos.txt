@@ -1,0 +1,5 @@
+experimentos/exp1.txt
+experimentos/exp2.txt
+experimentos/exp3.txt
+experimentos/exp4.txt
+experimentos/exp5.txt

@@ -1,0 +1,9 @@
+8,14
+P,P,P,P,P,P,P,P,P,P,P,P,S,P
+P,Q,P, , , ,P, , , , , , ,P
+P, ,P, ,P, ,P, , , , , , ,P
+P, ,P, ,P, , , , , , , , ,P
+P, ,P, ,P,P,P,P,P,P,P, , ,P
+P, , , ,P,Q,P, , , ,P, , ,P
+P,Q, , ,P, , , ,P, , , , ,P
+P,S,P,P,P,P,P,P,P,P,P,P,P,P
